@@ -1,4 +1,3 @@
-print("starting flask......")
 
 from flask import Flask,request,render_template
 
